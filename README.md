@@ -3,8 +3,6 @@ start
 one
 two
 three
-four
-five
-what happend?
-are you kidding me?
-why?
+when I was a little boy
+mother told me 
+what the life is
